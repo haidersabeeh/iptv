@@ -1,208 +1,91 @@
 #EXTM3U
-#EXTINF:0,==== beIN ====
-#EXTGRP:beIN
+#EXTINF:0,==== Sports ====
+#EXTGRP:Sports
 http://beryantv.com
 #EXTINF:1,beIN Sports 1 HD
-#EXTGRP:beIN
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/1
 #EXTINF:1,beIN Sports 2 HD
-#EXTGRP:beIN
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/2
 #EXTINF:1,beIN Sports 3 HD
-#EXTGRP:beIN
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/3
 #EXTINF:1,beIN Sports 4 HD
-#EXTGRP:beIN
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/4
 #EXTINF:1,beIN Sports 5 HD
-#EXTGRP:beIN
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/3116
 #EXTINF:1,beIN Sports 6 HD
-#EXTGRP:beIN
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/3165
 #EXTINF:1,beIN Sports 7 HD
-#EXTGRP:beIN
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/3171
 #EXTINF:1,beIN Sports 8 HD
-#EXTGRP:beIN
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/3677
 #EXTINF:1,beIN Sports 9 HD
-#EXTGRP:beIN
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/3678
 #EXTINF:1,beIN Sports 10 HD
-#EXTGRP:beIN
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/3679
-#EXTINF:0,beIN Movies HD 1
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/694
-#EXTINF:0,beIN Movies HD 2
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/693
-#EXTINF:0,beIN Movies HD 3
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/692
-#EXTINF:0,beIN Movies HD 4
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/706
-#EXTINF:0,Boomerang HD
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/708
-#EXTINF:0,Jeem HD
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/119
-#EXTINF:0,Baraem HD
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/54
-#EXTINF:0,be Junior HD
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/1134
-#EXTINF:-1,FOX HD
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/4492
-#EXTINF:-1,FOX Movies HD
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/679
-#EXTINF:0,FOX Family Movies HD
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/2630
-#EXTINF:0,FOX Action Movies HD
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/1201
-#EXTINF:0,FOX Crime HD
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/4493
-#EXTINF:-1,Fox Life HD
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/4490
-#EXTINF:-1,FOX Rewayat HD
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/4495
-#EXTINF:1,TRAVEL HD
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/707
-#EXTINF:1,beIN DRAMA HD 
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/2107
-#EXTINF:1,beIN GOURMET HD
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/1127
-#EXTINF:-1,FOOD Network
-#EXTGRP:beIN
-http://iptv.am000.tv:8000/11223355/11223355/1804
-#EXTINF:0,==== AD Sport ====
-#EXTGRP:AD Sport
-http://beryantv.com
 #EXTINF:0,AD Sport 1 HD
-#EXTGRP:AD Sport
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/89
 #EXTINF:0,AD Sport 2 HD
-#EXTGRP:AD Sport
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/114
 #EXTINF:0,AD Sport 3 HD
-#EXTGRP:AD Sport
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/90
 #EXTINF:0,AD Sport 4 HD
-#EXTGRP:AD Sport
+#EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/534
-#EXTINF:0,==== OSN =====
-#EXTGRP:OSN
-http://beryantv.com
-#EXTINF:0,OSN Ya Hala HD
-#EXTGRP:OSN
-http://iptv.am000.tv:8000/11223355/11223355/680
-#EXTINF:0,OSN Ya Hala Aloula
-#EXTGRP:OSN
-http://iptv.am000.tv:8000/11223355/11223355/1805
-#EXTINF:0,OSN Ya Hala Cinema
-#EXTGRP:OSN
-http://iptv.am000.tv:8000/11223355/11223355/676
-#EXTINF:0,OSN Movies HD
-#EXTGRP:OSN
-http://iptv.am000.tv:8000/11223355/11223355/688
-#EXTINF:0,OSN Movies HD 2h
-#EXTGRP:OSN
-http://iptv.am000.tv:8000/11223355/11223355/709
-#EXTINF:0,OSN Comedy HD
-#EXTGRP:OSN
-http://iptv.am000.tv:8000/11223355/11223355/700
-#EXTINF:0,OSN Action HD
-#EXTGRP:OSN
-http://iptv.am000.tv:8000/11223355/11223355/689
-#EXTINF:1,OSN Box Office 1
-#EXTGRP:OSN
-http://iptv.am000.tv:8000/11223355/11223355/1198
-#EXTINF:1,OSN Box Office 2
-#EXTGRP:OSN
-http://iptv.am000.tv:8000/11223355/11223355/1197
-#EXTINF:1,OSN Box Office 3
-#EXTGRP:OSN
-http://iptv.am000.tv:8000/11223355/11223355/697
-#EXTINF:-1,OSN WWE
-#EXTGRP:OSN
-http://iptv.am000.tv:8000/11223355/11223355/705
-#EXTINF:-1,Nickelodeon JR
-#EXTGRP:OSN
-http://iptv.am000.tv:8000/11223355/11223355/4487
-#EXTINF:0,==== ART =====
-#EXTGRP:ART
-http://beryantv.com
-#EXTINF:-1,ART AFLAM 1
-#EXTGRP:ART
-http://iptv.am000.tv:8000/11223355/11223355/33
-#EXTINF:-1,ART AFLAM 2
-#EXTGRP:ART
-http://iptv.am000.tv:8000/11223355/11223355/32
-#EXTINF:-1,ART CINEMA
-#EXTGRP:ART
-http://iptv.am000.tv:8000/11223355/11223355/76
-#EXTINF:-1,ART Hekayat 1
-#EXTGRP:ART
-http://iptv.am000.tv:8000/11223355/11223355/35
-#EXTINF:-1,ART Hekayat 2
-#EXTGRP:ART
-http://iptv.am000.tv:8000/11223355/11223355/34
-#EXTINF:0,==== MY-HD =====
-#EXTGRP:MY HD
-http://beryantv.com
-#EXTINF:-1,MBC HD1
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/911
-#EXTINF:-1,MBC HD2
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/902
-#EXTINF:-1,MBC HD3
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/909
-#EXTINF:-1,MBC HD4
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/908
-#EXTINF:-1,MBC HD5
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/4435
-#EXTINF:-1,MBC MAX HD
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/906
-#EXTINF:-1,MBC ACTION HD
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/910
-#EXTINF:-1,MBC DRAMA HD
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/1050
-#EXTINF:-1,MBC Variety HD
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/1118
-#EXTINF:-1,MBC 5 HD
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/4435
-#EXTINF:-1,MBC Bollywood HD
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/4436
-#EXTINF:-1,ROTANA AFLAM HD
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/4437
-#EXTINF:-1,ROTANA DRAMA HD
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/4438
-#EXTINF:-1,ROTANA KHALIJI HD
-#EXTGRP:MY HD
-http://iptv.am000.tv:8000/11223355/11223355/4439
+#EXTINF:-1,|DE| Eurosport 1 HD
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2686.ts
+#EXTINF:-1,|DE| Eurosport 2 HD
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2687.ts
+#EXTINF:-1,|DE| DAZN 1 Bar HD
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2674.ts
+#EXTINF:-1,|DE| DAZN 2 Bar HD
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2675.ts
+#EXTINF:-1,|DE| SKY Sport 1 FHD
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2823.ts
+#EXTINF:-1,|DE| SKY Sport 2 FHD
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2824.ts
+#EXTINF:-1,|DE| Sky Sport 1 HD
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2772.ts
+#EXTINF:-1,|DE| Sky Sport 2 HD
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2773.ts
+#EXTINF:-1,|DE| Sky Sport 3
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2774.ts
+#EXTINF:-1,|DE| Sky Sport 5
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2775.ts
+#EXTINF:-1,|DE| Sky Sport 6 HD
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2776.ts
+#EXTINF:-1,|DE| Sky Sport 7 HD
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2777.ts
+#EXTINF:-1,|DE| Sky Sport 9 HD
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2779.ts
+#EXTINF:-1,|DE| Sky Sport Austria HD
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2780.ts
+#EXTINF:-1,|DE| Sky Sport News HD
+#EXTGRP:Sports
+http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2782.ts
