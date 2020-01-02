@@ -1,0 +1,146 @@
+#EXTM3U
+#EXTINF:0,==== News =====
+#EXTGRP:News
+http://beryantv.com
+#EXTINF:-1,Aljazeera HD
+#EXTGRP:News
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8		
+#EXTINF:-1,Al Arabiya HD
+#EXTGRP:News
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_w9595955_b1400000.m3u8
+#EXTINF:-1,Al Mayadeen TV
+#EXTGRP:News
+http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
+#EXTINF:-1,ZEE ALWAN
+#EXTGRP:Various
+http://95.170.215.109/hls/m3u8/ZEE-Alwan-Backup.m3u8
+#EXTINF:-1,ZEE AFLAM
+#EXTGRP:Various
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1,(SYRIA) Lana TV
+#EXTGRP:Various
+https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
+#EXTINF:-1,Lana Plus TV
+#EXTGRP:Various
+https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
+#EXTINF:-1,SYRIA DRAMA
+#EXTGRP:Various
+http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
+#EXTINF:0,SamaTV HD+
+#EXTGRP:Various
+http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
+#EXTINF:-1,Al Jadeed
+#EXTGRP:Various
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/1106
+#EXTINF:0,MTV
+#EXTGRP:Various
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/604
+#EXTINF:-1,MTV Lebanon
+#EXTGRP:Various
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
+#EXTINF:-1,LDC
+#EXTGRP:Various
+http://95.170.215.109/hls/m3u8/LDC-Backup.m3u8
+#EXTINF:-1,OTV
+#EXTGRP:Various
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:0,AR:Future
+#EXTGRP:Various
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:-1,LBC Leb
+#EXTGRP:Various
+http://livecdnh2.tvanywhere.ae:80/hls/lbc_int/04.m3u8m3u8
+#EXTINF:-1,AR: TeLe Liban
+#EXTGRP:Various
+http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/7593
+#EXTINF:-1,Dubai TV
+#EXTGRP:Various
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1,Dubai Zaman
+#EXTGRP:Various
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1,Abu Dhabi TV
+#EXTGRP:Various
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1,Abu Dhabi Drama
+#EXTGRP:Various
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1,Cima
+#EXTGRP:Various
+http://95.170.215.107:80/hls/m3u8/Cima-Backup.m3u8
+#EXTINF:-1, Cairo Cinema
+#EXTGRP:Various
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.109:80/hls/m3u8/CairoCine-Backup.m3u8
+#EXTINF:-1,Rotana classic
+#EXTGRP:Various
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:-1,Rotana Aflam HD
+#EXTGRP:Various
+http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1631
+#EXTINF:-1,Rotana Cinema HD
+#EXTGRP:Various
+http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1632
+#EXTINF:-1,MYHD Rotana Drama HD
+#EXTGRP:Various
+http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1641
+#EXTINF:0, Nile cinma
+#EXTGRP:Various
+http://livecdnh2.tvanywhere.ae/ss/nile_cin.isml/Manifest
+#EXTINF:-1,FOX TV
+#EXTGRP:Various
+http://185.118.50.219/TR-foxtv/index.m3u8
+#EXTINF:-1,Planet Turk
+#EXTGRP:Various
+http://185.118.50.219/TR-planetturk/index.m3u8
+#EXTINF:-0,360 TV (Skytürk)
+#EXTGRP:Various
+http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/iptvdelisi.m3u8
+#EXTINF:-1,TRT DIYANET
+#EXTGRP:Various
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:-1,TRT MUZIK
+#EXTGRP:Various
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1,TRT HABER HD
+#EXTGRP:Various
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+#EXTINF:-0,TGRT BELGESEL
+#EXTGRP:Various
+rtmp://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1
+#EXTINF:-1,TRT BELGESEL HD
+#EXTGRP:Various
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1,NTV Spor
+#EXTGRP:Various
+http://185.118.50.219/TR-ntvspor/index.m3u8
+#EXTINF:-1,TRT Spor
+#EXTGRP:Various
+http://185.118.50.219/TR-trtspor/index.m3u8
+#EXTINF:-1,CNN TURK
+#EXTGRP:Various
+http://185.118.50.219/TR-cnnturk/index.m3u8
+#EXTINF:-1,A Haber
+#EXTGRP:Various
+http://185.118.50.219/TR-ahaber/index.m3u8
+#EXTINF:-1,Haber Turk
+#EXTGRP:Various
+http://185.118.50.219/TR-haberturk/index.m3u8
+#EXTINF:-0,TGRT HABER
+#EXTGRP:Various
+rtmp://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3
+#EXTINF:-1,MYHD DOCU BOX HD
+#EXTGRP:Various
+http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1663
+#EXTINF:-1,MYHD ANIMAL PLANET
+#EXTGRP:Various
+http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1664
+#EXTINF:-1,MYHD Nat Geo Wild HD
+#EXTGRP:Various
+http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1666
+#EXTINF:0,National Geografi
+#EXTGRP:Various
+http://188.160.0.148:1935/5b2a43c25a3c731/_definst_/smil:myStream.smil/playlist.m3u8?t=5de37acad5ee2
+#EXTINF:-1,|OSN| Nat GEO Wild HD
+#EXTGRP:Various
+http://iptv6.premium-stv.com:25461/pro1osnsourcepro/468556621230pro/1702
