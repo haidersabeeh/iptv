@@ -1,2 +1,14 @@
 #EXTINF:-1,MBC1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:-1,MBC2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+#EXTINF:-1,MBC3
+http://livecdnh3.tvanywhere.ae/hls/mbc3/03.m3u8
+#EXTINF:-1,MBC4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+#EXTINF:-1,MBC Max
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
+#EXTINF:-1,MBC Drama
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
+#EXTINF:-1,MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/03.m3u8
