@@ -12,6 +12,8 @@ http://iptv.am000.tv:8000/11223355/11223355/4438
 #EXTGRP:Movies
 http://iptv.am000.tv:8000/11223355/11223355/4439
 #EXTINF:0,==== BEIN =====
+#EXTGRP:Movies
+http://beryantv.com
 #EXTINF:0,beIN Movies HD 1
 #EXTGRP:Movies
 http://iptv.am000.tv:8000/11223355/11223355/694
@@ -76,6 +78,8 @@ http://iptv.am000.tv:8000/11223355/11223355/35
 #EXTGRP:Movies
 http://iptv.am000.tv:8000/11223355/11223355/34
 #EXTGRP:Movies
+#EXTINF:0,==== ART =====
+#EXTGRP:OSN
 http://beryantv.com
 #EXTINF:0,OSN Ya Hala HD
 #EXTGRP:Movies
