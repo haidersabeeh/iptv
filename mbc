@@ -2,9 +2,6 @@
 #EXTINF:0,==== MBC ====
 #EXTGRP:MBC
 http://beryantv.com
-#EXTINF:-1,AR: MBC BOLLY
-#EXTGRP:MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8?sd=10&rebasm3u8rebasm3u8
 #EXTINF:-1,MBC1
 #EXTGRP:MBC
 http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
@@ -23,12 +20,13 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
 #EXTINF:-1,MBC Masr
 #EXTGRP:MBC
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/03.m3u8
+#EXTINF:-1,AR: MBC BOLLY
+#EXTGRP:MBC
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8?sd=10&rebasm3u8rebasm3u8
 
 #EXTINF:0,==== MBC Backup ====
-#EXTINF:0,Mbc
+#EXTINF:0,MBC 1
 http://188.160.0.148:1935/59afc8adc301977/_definst_/smil:myStream.smil/playlist.m3u8?t=5de37acad5ee2
-#EXTINF:-1,MBC 1
-http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
 #EXTINF:-1,MBC Drama HD
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8
 #EXTINF:-1,MBC Drama+
@@ -43,7 +41,7 @@ http://95.170.215.107:80/hls/m3u8/MBC-Masr-2-Backu.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8?sd=10&rebasm3u8rebasm3u8
 
 #EXTINF:0,==== MBC HD ====
-#EXTINF:-1,MBCHD1
+#EXTINF:-1,MBC HD 1
 http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1621
 #EXTINF:-1,MBC DRAMA HD
 http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1625
