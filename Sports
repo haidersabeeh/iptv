@@ -158,3 +158,13 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 #EXTINF:-1 ,Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 ,WWE Network
+https://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/997452/2Fplaylist.m3u8?terminate=false&deviceId=-&deviceVersion=&appVersion=&deviceType=&deviceMake=&sid=7&advertisingId=&deviceLat=0&deviceLon=-&deviceDNT=0&deviceModel=&userId=&embedPartner=&appName=&serverSideAds=&architecture=&paln=
+#EXTINF:-1 ,NORWAY
+http://bgo1.cdn.s3m.no/fs/live/live/chunklist.m3u8
+#EXTINF:-1 ,Sky-Sport-action
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:-1 ,Sky-Sports-Golf
+http://95.170.215.120:80/hls/m3u8/Sky-Sports-Golf.m3u8
+#EXTINF:-1 ,Sky-Spo-football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
