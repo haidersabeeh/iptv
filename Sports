@@ -91,77 +91,53 @@ http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2780.ts
 http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2782.ts
 
 #EXTINF:0,==== BEIN backup====
-#EXTINF:-1 ,Restreaml Bein SD1
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/7.ts
-#EXTINF:-1 ,Bein Sport News
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/13.ts
-#EXTINF:-1 ,bein low-9
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/14.ts
-#EXTINF:-1 ,bein low-8
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/15.ts
-#EXTINF:-1 ,bein low-7
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/16.ts
-#EXTINF:-1 ,bein low-6
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/17.ts
-#EXTINF:-1 ,bein low-5
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/18.ts
-#EXTINF:-1 ,bein low-4
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/19.ts
-#EXTINF:-1 ,bein low-3
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/20.ts
-#EXTINF:-1 ,bein low-2
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/21.ts
-#EXTINF:-1 ,bein low-1
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/22.ts
-#EXTINF:-1 ,Restreaml Bein SD2
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/8.ts
-#EXTINF:-1 ,Restreaml Bein SD3
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/9.ts
-#EXTINF:-1 ,Restreaml Bein SD4
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/10.ts
-#EXTINF:-1 ,RESTREAML BEIN SD5
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/11.ts
-#EXTINF:-1 ,RESTREAML BEIN SD6
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/12.ts
-#EXTINF:-1 ,restreaml Bein HD1
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/1.ts
-#EXTINF:-1 ,restreaml Bein HD2
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/2.ts
-#EXTINF:-1 ,restreaml Bein HD3
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/4.ts
-#EXTINF:-1 ,restreaml Bein HD4
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/3.ts
-#EXTINF:-1 ,RESTREAML BEIN HD5
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/5.ts
-#EXTINF:-1 ,RESTREAML BEIN HD6
-http://yacinebeiin.ddns.net:8000/live/beeeiiin888/beeeiiin888/6.ts
-#EXTINF:-1,BEIN-SPORT-1-HD
-http://tv2iptv.com:8000/Majid/majid123/29
-#EXTINF:-1,BEIN-SPORT-2-HD
-http://tv2iptv.com:8000/Majid/majid123/30
-#EXTINF:-1,BEIN-SPORT-3-HD
-http://tv2iptv.com:8000/Majid/majid123/31
-#EXTINF:-1,BEIN-SPORT-4-HD
-http://tv2iptv.com:8000/Majid/majid123/32
-#EXTINF:-1,BEIN-SPORT-5-HD
-http://tv2iptv.com:8000/Majid/majid123/33
-#EXTINF:-1,BEIN-SPORT-6-HD
-http://tv2iptv.com:8000/Majid/majid123/34
-#EXTINF:-1,BEIN-SPORT-7-HD
-http://tv2iptv.com:8000/Majid/majid123/35
-#EXTINF:-1,BEIN-SPORT-8-HD
-http://tv2iptv.com:8000/Majid/majid123/36
-#EXTINF:-1,BEIN-SPORT-9-HD
-http://tv2iptv.com:8000/Majid/majid123/37
-#EXTINF:-1,BEIN-SPORT-10-HD
-http://tv2iptv.com:8000/Majid/majid123/38
-#EXTINF:-1,BEIN-SPORT-11-HD
-http://tv2iptv.com:8000/Majid/majid123/1033
-#EXTINF:-1,BEIN-SPORT-12-HD
-http://tv2iptv.com:8000/Majid/majid123/1034
-#EXTINF:-1,BEIN-SPORT-13-HD
-http://tv2iptv.com:8000/Majid/majid123/1035
-#EXTINF:-1,BEIN-SPORT-14-HD
-http://tv2iptv.com:8000/Majid/majid123/1036
-#EXTINF:-1,BEIN-SPORT-15-HD
-http://tv2iptv.com:8000/Majid/majid123/23529
+#EXTGRP:Sports
+#EXTINF:-1 ,BEIN_SPORT_11_HD
+http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36295
+#EXTINF:-1 ,BEIN_SPORT_12_HD
+http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36294
+#EXTINF:-1 ,[AR] BeIN SPORTS 1 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/1.ts
+#EXTINF:-1 ,[AR] BeIN SPORTS 2 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/2.ts
+#EXTINF:-1 ,[AR] BeIN SPORTS 3 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/12.ts
+#EXTINF:-1 ,[AR] BeIN SPORTS 4 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/13.ts
+#EXTINF:-1 ,[AR] BeIN SPORTS 5 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/14.ts
+#EXTINF:-1 ,[AR] BeIN SPORTS 6 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/15.ts
+#EXTINF:-1 ,[AR] BeIN SPORTS 7 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/16.ts
+#EXTINF:-1 ,[AR] BeIN SPORTS 8 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/17.ts
+#EXTINF:-1 ,[AR] BeIN SPORTS 9 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/18.ts
+#EXTINF:-1 ,[AR] BeIN SPORTS 10 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/19.ts
+#EXTINF:-1 ,[AR] BeIN SPORTS 11 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/20.ts
+#EXTINF:-1 ,beiN Sports 1 SD
+http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/28750
+#EXTINF:-1 ,beiN Sports 2 SD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/23.ts
+#EXTINF:-1 ,beiN Sports 3 SD
+http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/28743
+#EXTINF:-1 ,beiN Sports 4 SD
+http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36302
+#EXTINF:-1 ,beiN Sports 5 SD
+http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36301
+#EXTINF:-1 ,beiN Sports 6 SD
+http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36300
+#EXTINF:-1 ,beiN Sports 7 SD
+http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36299
+#EXTINF:-1 ,beiN Sports 8 SD
+http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36298
+#EXTINF:-1 ,beiN Sports 9 SD
+http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36297
+#EXTINF:-1 ,beiN Sports 10 SD
+http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36296
+#EXTINF:-1 ,beiN SPORTs NBA HD
+http://95.170.215.120/hls/m3u8/Bein-Sport-NBA-HAK-NGC.m3u8
+#EXTINF:-1 ,US | Real Madrid HD EN
