@@ -23,8 +23,6 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_msr/03.m3u8
 #EXTINF:-1,AR: MBC BOLLY
 #EXTGRP:MBC
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8?sd=10&rebasm3u8rebasm3u8
-
-#EXTINF:1,==== MBC Backup ====
 #EXTINF:0,MBC 1
 http://188.160.0.148:1935/59afc8adc301977/_definst_/smil:myStream.smil/playlist.m3u8?t=5de37acad5ee2
 #EXTINF:-1,MBC Drama HD
@@ -37,8 +35,6 @@ http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
 http://iptv6.premium-stv.com:25461/sourcemyhdpro1/4690746424/1636
 #EXTINF:-1,MBC-Maser-2
 http://95.170.215.107:80/hls/m3u8/MBC-Masr-2-Backu.m3u8
-
-#EXTINF:2,==== MBC HD ====
 #EXTINF:-1,MBC HD 1
 http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1621
 #EXTINF:-1,MBC HD 2
@@ -53,9 +49,32 @@ http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1635
 http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1636
 #EXTINF:-1,MBC IRAQ HD
 http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1630
-#EXTINF:-1,MYHD MBC Masr
+#EXTINF:-1,MBC Masr
 http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1638
-#EXTINF:-1,MYHD MBC Masr 2
+#EXTINF:-1,MBC Masr 2
 http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1639
-#EXTINF:-1,MYHD MBC Bollywood HD
+#EXTINF:-1,MBC Bollywood HD
 http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1637
+#EXTINF:-1 ,MBC1 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,MBC2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,MBC3 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,MBC4 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,MBC5 HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro1/4690746424/1636
+#EXTINF:-1 ,MBC Drama HD
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8
+#EXTINF:-1 ,MBC-Iraq
+http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
+#EXTINF:-1 ,MBC Variety
+http://95.170.215.118/hls/m3u8/MBC-P-VARity-FF-CC.m3u8
+#EXTINF:-1 ,MBC Drama++
+http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8
+#EXTINF:-1 ,MBC Action
+http://bath-talfaza.stackstaging.com/hls/arabic-live/mbc-action.php.m3u8?id=MBC-ACTION
+#EXTINF:-1 ,MBC Max HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,AR: MBC BOLLY
