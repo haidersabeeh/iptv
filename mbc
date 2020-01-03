@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:0,==== MBC ====
 #EXTGRP:MBC
+www.jouqi.com
 #EXTINF:-1,MBC1
 #EXTGRP:MBC
 http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
