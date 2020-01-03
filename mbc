@@ -41,6 +41,8 @@ http://95.170.215.107:80/hls/m3u8/MBC-Masr-2-Backu.m3u8
 #EXTINF:2,==== MBC HD ====
 #EXTINF:-1,MBC HD 1
 http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1621
+#EXTINF:-1,MBC HD 2
+http://iptv6.premium-stv.com:25461/sourcemyhdpro1/4690746424/1622
 #EXTINF:-1,MBC DRAMA HD
 http://213.152.172.67:25461/sourcemyhdpro1/4690746424/1625
 #EXTINF:-1,MBC DRAMA  HD
