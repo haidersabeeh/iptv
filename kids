@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:0,==== KIDS =====
+#EXTGRP:KIDS
 #EXTINF:-1 ,TAHA
 http://95.170.215.109/hls/m3u8/TAHA-Backup.m3u8
 #EXTINF:-1 ,TAHA
@@ -54,3 +57,11 @@ http://knstream1.azureedge.net/knlive/knlive.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 #EXTINF:-1 ,Kids TV
 http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=,,&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0,Boomerang HD
+http://iptv.am000.tv:8000/11223355/11223355/708
+#EXTINF:0,Jeem HD
+http://iptv.am000.tv:8000/11223355/11223355/119
+#EXTINF:0,Baraem HD
+http://iptv.am000.tv:8000/11223355/11223355/54
+#EXTINF:0,be Junior HD
+http://iptv.am000.tv:8000/11223355/11223355/1134
