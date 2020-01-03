@@ -92,7 +92,9 @@ http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2782.ts
 
 #EXTINF:0,==== BEIN backup====
 #EXTGRP:Sports
+www.jouqi.com
 #EXTINF:-1 ,BEIN_SPORT_11_HD
+#EXTGRP:Sports
 http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36295
 #EXTINF:-1 ,BEIN_SPORT_12_HD
 http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36294
