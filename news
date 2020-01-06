@@ -1,0 +1,48 @@
+#EXTINF:0,==== News =====
+#EXTGRP:News
+http://beryantv.com
+#EXTINF:-1,Aljazeera HD
+#EXTGRP:News
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8	
+#EXTINF:-1,ARABIC | Nile News
+http://213.162.202.13:231
+#EXTINF:-1,ARABIC | Orient News TV
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_w3959515959_b925000.m3u8
+#EXTINF:-1,ARABIC | Orient News TV (1+)
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=orient
+#EXTINF:-1,ARABIC | Orient News TV HD
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_w959592259_b1825000.m3u8
+#EXTINF:-1,ARABIC | RT Arabic HD
+https://rt-arab-gd.secure2.footprint.net/1104_2500Kb.m3u8
+#EXTINF:-1,ARABIC | Sky News (EN)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,ARABIC | Sky News Arabic
+https://stream.skynewsarabia.com/hls/sna_480.m3u8
+#EXTINF:-1,ARABIC | Sky News Arabic HD
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1,ARABIC | 218 News HD
+http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ARABIC | Al Arabiya
+http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
+#EXTINF:-1,ARABIC | Al Araby HD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Al Arabiya HD
+#EXTGRP:News
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_w9595955_b1400000.m3u8
+#EXTINF:-1,ARABIC | Al Hiwar HD
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8
+#EXTINF:-1,ARABIC | Al Horreya TV HD
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/chunklist_w15939947_b1628000_slar_t64RnVsbCBIRA==.m3u8
+#EXTINF:-1,ARABIC | Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,ARABIC | BBC News Arabic
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,ARABIC | BBC World News (EN)
+http://ott-cdn.ucom.am/s24/04.m3u8
+#EXTINF:-1,ARABIC | CBS News (EN)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,ARABIC | CBS News HD (EN)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Al Mayadeen TV
+#EXTGRP:News
+http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
