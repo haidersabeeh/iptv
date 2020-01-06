@@ -5,12 +5,6 @@ http://beryantv.com
 #EXTINF:-1,ROTANA AFLAM HD
 #EXTGRP:Movies
 http://iptv.am000.tv:8000/11223355/11223355/4437
-#EXTINF:-1,ROTANA DRAMA HD
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/4438
-#EXTINF:-1,ROTANA KHALIJI HD
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/4439
 #EXTINF:0,==== BEIN =====
 #EXTGRP:Movies
 http://beryantv.com
@@ -50,9 +44,6 @@ http://iptv.am000.tv:8000/11223355/11223355/4495
 #EXTINF:1,TRAVEL HD
 #EXTGRP:Movies
 http://iptv.am000.tv:8000/11223355/11223355/707
-#EXTINF:1,beIN DRAMA HD 
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/2107
 #EXTINF:1,beIN GOURMET HD
 #EXTGRP:Movies
 http://iptv.am000.tv:8000/11223355/11223355/1127
@@ -78,15 +69,9 @@ http://iptv.am000.tv:8000/11223355/11223355/35
 #EXTGRP:Movies
 http://iptv.am000.tv:8000/11223355/11223355/34
 #EXTGRP:Movies
-#EXTINF:0,==== ART =====
+#EXTINF:0,==== OSN =====
 #EXTGRP:Movies
 http://beryantv.com
-#EXTINF:0,OSN Ya Hala HD
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/680
-#EXTINF:0,OSN Ya Hala Aloula
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/1805
 #EXTINF:0,OSN Ya Hala Cinema
 #EXTGRP:Movies
 http://iptv.am000.tv:8000/11223355/11223355/676
@@ -111,12 +96,6 @@ http://iptv.am000.tv:8000/11223355/11223355/1197
 #EXTINF:1,OSN Box Office 3
 #EXTGRP:Movies
 http://iptv.am000.tv:8000/11223355/11223355/697
-#EXTINF:-1,OSN WWE
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/705
-#EXTINF:-1,Nickelodeon JR
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/4487
 #EXTINF:-1,Cinema 1
 http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
 #EXTINF:-1,|OSN| CINEMA 1
