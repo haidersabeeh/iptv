@@ -1,0 +1,94 @@
+#EXTM3U
+#EXTINF:0,==== Drama =====
+#EXTGRP:Drama
+http://jouqi.com
+#EXTINF:-1,ROTANA DRAMA HD
+#EXTGRP:Drama
+http://iptv.am000.tv:8000/11223355/11223355/4438
+#EXTINF:-1,ROTANA KHALIJI HD
+#EXTGRP:Dramahttp://iptv.am000.tv:8000/11223355/11223355/4439
+#EXTINF:1,beIN DRAMA HD 
+#EXTGRP:Drama
+http://iptv.am000.tv:8000/11223355/11223355/2107
+#EXTINF:0,OSN Ya Hala HD
+#EXTGRP:Drama
+http://iptv.am000.tv:8000/11223355/11223355/680
+#EXTINF:0,OSN Ya Hala Aloula
+#EXTGRP:Drama
+http://iptv.am000.tv:8000/11223355/11223355/1805
+#EXTINF:-1,ARABIC | Abu Dhabi Drama
+https://adtv.ercdn.net/addrama/addrama_480p.m3u8
+#EXTINF:-1,ARABIC | Abu Dhabi Drama (1+)
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1,ARABIC | Abu Dhabi Drama HD
+https://adtv.ercdn.net/addrama/addrama_720p.m3u8
+#EXTINF:-1,ARABIC | Abu Dhabi TV
+http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
+#EXTINF:-1,ARABIC | Abu Dhabi TV (1+)
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1,ARABIC | Abu Dhabi TV HD
+http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
+#EXTINF:-1,ARABIC | Dubai One HD
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
+#EXTINF:-1,ARABIC | Dubai TV
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1,ARABIC | Dubai TV HD
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream/chunklist_b2000000.m3u8
+#EXTINF:-1,ARABIC | Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,ARABIC | Dubai Zaman (1+)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1,ARABIC | El Sharq TV
+http://cdg3.edge.tmed.pw/elsharqtv/abr/elsharqtv/live_640p/chunks.m3u8
+#EXTINF:-1,ARABIC | El Sharq TV HD
+http://cdg3.edge.tmed.pw/elsharqtv/abr/playlist.m3u8
+#EXTINF:-1,ARABIC | El Sharq TV HD (1+)
+http://cdg3.edge.tmed.pw/elsharqtv/abr/elsharqtv/live_1024p/chunks.m3u8
+#EXTINF:-1,ARABIC | FAMILY DRAMA
+http://213.162.202.13:3090
+#EXTINF:-1,ARABIC | Funoon
+http://livecdnh3.tvanywhere.ae:80/hls/funoon/04.m3u8
+#EXTINF:-1,ARABIC | Future Leb TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:-1,ARABIC | Future Leb TV (1+)
+http://livecdnh2.tvanywhere.ae:80/hls/future/04.m3u8
+#EXTINF:-1,ARABIC | Jordan TV
+http://livecdnh2.tvanywhere.ae:80/hls/jordan/04.m3u8
+#EXTINF:-1,ARABIC | KTV 1 HD
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+#EXTINF:-1,ARABIC | KTV 2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+#EXTINF:-1,ARABIC | KTV Al Majlis
+https://svs.itworkscdn.net/ktvalmajlislive/smil:kalmajlis.smil/chunklist_b2400000.m3u8
+#EXTINF:-1,ARABIC | KTV Arabe
+https://svs.itworkscdn.net/ktvarabelive/smil:karabe.smil/chunklist_b2400000.m3u8
+#EXTINF:-1,ARABIC | Lana
+https://svs.itworkscdn.net/lanatvlive/lana/chunklist_DVR.m3u8
+#EXTINF:-1,ARABIC | LBC Leb
+http://livecdnh2.tvanywhere.ae:80/hls/lbc_int/04.m3u8
+#EXTINF:-1,ARABIC | LDC Leb
+http://95.170.215.109/hls/m3u8/LDC-Backup.m3u8
+#EXTINF:-1,ARABIC | MTV Lebanon
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/03.m3u8
+#EXTINF:-1,ARABIC | MTV Lebanon HD
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
+#EXTINF:-1,ARABIC | Nile Drama
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
+#EXTINF:-1,ARABIC | Noor Dubai
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,ARABIC | Panorama Drama
+http://213.162.202.13:3034
+#EXTINF:-1,ARABIC | Panorama Drama 2
+http://213.162.202.13:3036
+#EXTINF:-1,ARABIC | Rotana Drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+#EXTINF:-1,ARABIC | Sama Dubai
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,ARABIC | Sama Dubai (1+)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:-1,ARABIC | Sama TV
+http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
+#EXTINF:-1,ARABIC | Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1,ARABIC | Star World HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
