@@ -5,6 +5,12 @@ http://beryantv.com
 #EXTINF:-1,ROTANA AFLAM HD
 #EXTGRP:Movies
 http://iptv.am000.tv:8000/11223355/11223355/4437
+#EXTINF:-1,ARABIC | Rotana Aflam
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+#EXTINF:-1,ARABIC | Rotana Cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+#EXTINF:-1,ARABIC | Rotana Classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
 #EXTINF:0,==== BEIN =====
 #EXTGRP:Movies
 http://beryantv.com
@@ -128,3 +134,19 @@ http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,China | Hollywood Movies 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1,ARABIC | ifilm
+https://5a61de8ed719d.streamlock.net:1443/ifilmlive/smil:ifilmar.smil/chunklist_w380282670_b944100_slen.m3u8
+#EXTINF:-1,ARABIC | Nile Cinema
+http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
+#EXTINF:-1,ARABIC | Panorama Film
+http://213.162.202.13:3035
+#EXTINF:-1,ARABIC | Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1,ARABIC | Star Movies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1,ARABIC | Comedy Central (EN)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ecuqage0urlhccbp8kbecjc830
+#EXTINF:-1,ARABIC | Comedy Central Stand Up (EN)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kcuqage0urlhccbp8kbecjc830
+#EXTINF:-1,ARABIC | Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
