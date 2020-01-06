@@ -142,7 +142,22 @@ http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36296
 #EXTINF:-1 ,beiN SPORTs NBA HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-NBA-HAK-NGC.m3u8
 #EXTINF:-1 ,US | Real Madrid HD EN
-
+#EXTINF:-1,ARABIC | beiN Sports 1 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1,ARABIC | beiN Sports 2 HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTINF:-1,ARABIC | beiN Sports 3 HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTINF:-1,ARABIC | beiN Sports 4 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:-1,ARABIC | beiN Sports 5 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:-1,ARABIC | beiN Sports 6 HD
+http://38.91.107.64:8080/TV4006
+#EXTINF:-1,ARABIC | beiN Sports 7 HD
+http://38.91.107.64:8080/TV4007
+#EXTINF:-1,ARABIC | beiN Sports 8 HD
+http://38.91.107.64:8080/TV4008
 #EXTINF:0,==== Other Sports====
 #EXTGRP:Sports
 http://beryantv.com
@@ -170,3 +185,42 @@ http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
 http://95.170.215.120:80/hls/m3u8/Sky-Sports-Golf.m3u8
 #EXTINF:-1 ,Sky-Spo-football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1,OSN WWE
+#EXTGRP:Movies
+http://iptv.am000.tv:8000/11223355/11223355/705
+#EXTINF:-1,ARABIC | DUBAI RACING 1 HD
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,ARABIC | DUBAI RACING 2 HD
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,ARABIC | DUBAI RACING 2 HD (1+)
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,ARABIC | Dubai Sports 1 HD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
+#EXTINF:-1,ARABIC | Dubai Sports 2 HD
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd/chunklist_b3000000.m3u8
+#EXTINF:-1,ARABIC | Dubai Sports 3 HD
+http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5/chunklist_b3000000.m3u8
+#EXTINF:-1,ARABIC | Jordan Sport
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
+#EXTINF:-1,ARABIC | AD Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,ARABIC | AD Sports 1 (1+)
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1,ARABIC | AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,ARABIC | AD Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,ARABIC | AD Sports 2 (1+)
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1,ARABIC | AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,ARABIC | AD Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1,ARABIC | AD Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1,ARABIC | Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1,ARABIC | Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1,ARABIC | Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
