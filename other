@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:0,==== News =====
-#EXTGRP:News
-http://beryantv.com
-#EXTINF:-1,Aljazeera HD
-#EXTGRP:News
-http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8		
-#EXTINF:-1,Al Arabiya HD
-#EXTGRP:News
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_w9595955_b1400000.m3u8
-#EXTINF:-1,Al Mayadeen TV
-#EXTGRP:News
-http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
 #EXTINF:-1,ZEE ALWAN
 #EXTGRP:Various
 http://95.170.215.109/hls/m3u8/ZEE-Alwan-Backup.m3u8
