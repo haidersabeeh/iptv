@@ -5,6 +5,8 @@ http://beryantv.com
 #EXTINF:-1 ,TAHA
 #EXTGRP:KIDS
 http://95.170.215.109/hls/m3u8/TAHA-Backup.m3u8
+#EXTINF:-1,ARABIC | Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
 #EXTINF:-1 ,TAHA
 #EXTGRP:KIDS
 http://red-apk.com:8080/arnixfree/120718/28301
