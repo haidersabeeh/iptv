@@ -93,3 +93,18 @@ http://iptv.am000.tv:8000/11223355/11223355/54
 #EXTINF:0,be Junior HD
 #EXTGRP:KIDS
 http://iptv.am000.tv:8000/11223355/11223355/1134
+#EXTINF:-1,Nickelodeon JR
+#EXTGRP:KIDS
+http://iptv.am000.tv:8000/11223355/11223355/4487
+#EXTINF:-1,ARABIC | duck Kids TV
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1,ARABIC | Karameesh Kids
+https://tunnellll.herokuapp.com/http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
+#EXTINF:-1,ARABIC | KTV Kids
+https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/chunklist_b2400000.m3u8
+#EXTINF:-1,ARABIC | Majid Kids TV
+https://tvae.ercdn.net/majidtv/majidtv_480p.m3u8
+#EXTINF:-1,ARABIC | Majid Kids TV (1+)
+http://95.170.215.109/hls/m3u8/Majid-Backup.m3u8
+#EXTINF:-1,ARABIC | Majid Kids TV HD
+https://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
