@@ -79,7 +79,7 @@ http://iptv.am000.tv:8000/11223355/11223355/35
 http://iptv.am000.tv:8000/11223355/11223355/34
 #EXTGRP:Movies
 #EXTINF:0,==== ART =====
-#EXTGRP:OSN
+#EXTGRP:Movies
 http://beryantv.com
 #EXTINF:0,OSN Ya Hala HD
 #EXTGRP:Movies
