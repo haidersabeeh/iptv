@@ -3,6 +3,65 @@
 #EXTGRP:Sports
 http://beryantv.com
 #EXTM3U
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="AR Bein Sports",beiN Sports 1
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5223
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="AR Bein Sports",beiN Sports 2
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5225
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="AR Bein Sports",beiN Sports 3  HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/28742
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="AR Bein Sports",beiN Sports 3
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5227
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="AR Bein Sports",beiN Sports 4
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5229
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="AR Bein Sports",beiN Sports 5
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5231
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="AR Bein Sports",beiN Sports 6
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5233
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="AR Bein Sports",beiN Sports 7
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5235
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="AR Bein Sports",beiN Sports 8
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5237
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="AR Bein Sports",beiN Sports 9
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5239
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="AR Bein Sports",beiN Sports 10
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5240
+#EXTINF:0 tvg-id="bein11hd.jsc" group-title="AR Bein Sports",beiN Sports 11
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5241
+#EXTINF:0 tvg-id="bein12hd.jsc" group-title="AR Bein Sports",beiN Sports 12
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5242
+#EXTINF:0 tvg-id="bein13hd.jsc" group-title="AR Bein Sports",beiN Sports 13
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5243
+#EXTINF:0 tvg-id="bein14hd.jsc" group-title="AR Bein Sports",beiN Sports 14
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5244
+#EXTINF:0 tvg-id="bein15hd.jsc" group-title="AR Bein Sports",beiN Sports 15
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5245
+#EXTINF:0 tvg-id="bein16hd.jsc" group-title="AR Bein Sports",beiN Sports 16
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5246
+#EXTINF:0 tvg-id="bein17hd.jsc" group-title="AR Bein Sports",beiN Sports 17
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5247
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="AR Bein Sports",beiN SPORTs NBA HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11440
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="AR Bein Sports",beiN Sports 1 SD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5222
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="AR Bein Sports",beiN Sports 2 SD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5224
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="AR Bein Sports",beiN Sports 3 SD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5226
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="AR Bein Sports",beiN Sports 4 SD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5228
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="AR Bein Sports",beiN Sports 5 SD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5230
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="AR Bein Sports",beiN Sports 6 SD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5232
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="AR Bein Sports",beiN Sports 7 SD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5234
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="AR Bein Sports",beiN Sports 8 SD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/6665
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="AR Bein Sports",beiN Sports 9 SD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5238
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="AR Bein Sports",beiN Sports 10 SD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/6666
+
 
 #EXTINF:-1,BEIN-SPORT1
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/232
@@ -40,7 +99,6 @@ http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/242
 #EXTINF:-1,BeIN_Sport_12
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/243
 
-
 #EXTINF:-1,bein sport
 http://dmtn.tv:8080/ahmed642710/ehuvnLl4i7/144296
 
@@ -59,88 +117,7 @@ http://iptv.am000.tv:8000/11223355/11223355/90
 #EXTINF:0,AD Sport 4 HD
 #EXTGRP:Sports
 http://iptv.am000.tv:8000/11223355/11223355/534
-#EXTINF:-1,|DE| Eurosport 1 HD
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2686.ts
-#EXTINF:-1,|DE| Eurosport 2 HD
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2687.ts
-#EXTINF:-1,|DE| DAZN 1 Bar HD
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2674.ts
-#EXTINF:-1,|DE| DAZN 2 Bar HD
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2675.ts
-#EXTINF:-1,|DE| SKY Sport 1 FHD
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2823.ts
-#EXTINF:-1,|DE| SKY Sport 2 FHD
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2824.ts
-#EXTINF:-1,|DE| Sky Sport 1 HD
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2772.ts
-#EXTINF:-1,|DE| Sky Sport 2 HD
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2773.ts
-#EXTINF:-1,|DE| Sky Sport 3
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2774.ts
-#EXTINF:-1,|DE| Sky Sport 5
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2775.ts
-#EXTINF:-1,|DE| Sky Sport 6 HD
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2776.ts
-#EXTINF:-1,|DE| Sky Sport 7 HD
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2777.ts
-#EXTINF:-1,|DE| Sky Sport 9 HD
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2779.ts
-#EXTINF:-1,|DE| Sky Sport Austria HD
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2780.ts
-#EXTINF:-1,|DE| Sky Sport News HD
-#EXTGRP:Sports
-http://iptv6.premium-stv.com:25461/live/sourcegermanypro2/0626674936/2782.ts
-#EXTINF:-1 ,beiN Sports 1 SD
-http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/28750
-#EXTINF:-1 ,beiN Sports 3 SD
-http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/28743
-#EXTINF:-1 ,beiN Sports 4 SD
-http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36302
-#EXTINF:-1 ,beiN Sports 5 SD
-http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36301
-#EXTINF:-1 ,beiN Sports 6 SD
-http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36300
-#EXTINF:-1 ,beiN Sports 7 SD
-http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36299
-#EXTINF:-1 ,beiN Sports 8 SD
-http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36298
-#EXTINF:-1 ,beiN Sports 9 SD
-http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36297
-#EXTINF:-1 ,beiN Sports 10 SD
-http://rocksat.ddns.net:25461/wuk6aphc/BrafD00kXo/36296
-#EXTINF:-1 ,beiN SPORTs NBA HD
-http://95.170.215.120/hls/m3u8/Bein-Sport-NBA-HAK-NGC.m3u8
-#EXTINF:-1 ,US | Real Madrid HD EN
-#EXTINF:-1,ARABIC | beiN Sports 1 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:-1,ARABIC | beiN Sports 2 HD
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
-#EXTINF:-1,ARABIC | beiN Sports 3 HD
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
-#EXTINF:-1,ARABIC | beiN Sports 4 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
-#EXTINF:-1,ARABIC | beiN Sports 5 HD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
-#EXTINF:-1,ARABIC | beiN Sports 6 HD
-http://38.91.107.64:8080/TV4006
-#EXTINF:-1,ARABIC | beiN Sports 7 HD
-http://38.91.107.64:8080/TV4007
-#EXTINF:-1,ARABIC | beiN Sports 8 HD
-http://38.91.107.64:8080/TV4008
+
 #EXTINF:0,==== Other Sports====
 #EXTGRP:Sports
 http://beryantv.com
