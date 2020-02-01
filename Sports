@@ -78,6 +78,27 @@ http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11305
 #EXTINF:0 tvg-id="bein8hd.jsc" group-title="Sports",beIN Sport 8 4K
 http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11304
 
+#EXTINF:0,==== Bein 4k ====
+http://dmtn.tv:8080/
+#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 1 FHD/HEVC
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11295
+#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 2 FHD/HEVC
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11294
+#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 3 FHD/HEVC
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11293
+#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 4 FHD/HEVC
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11292
+#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 5 FHD/HEVC
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11291
+#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 6 FHD/HEVC
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11290
+#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 7 FHD/HEVC
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11289
+#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 8 FHD/HEVC
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11288
+
+#EXTINF:0,==== Bein Backup ====
+http://dmtn.tv:8080/
 #EXTINF:-1,BEIN-SPORT1
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/232
 #EXTINF:-1,BEIN-SPORT2
@@ -107,18 +128,35 @@ http://dmtn.tv:8080/ahmed642710/ehuvnLl4i7/144296
 #EXTINF:-1,BEIN-SPORTmax
 http://dmtn.tv:8080/ahmed642710/ehuvnLl4i7/144298
 
-#EXTINF:0,AD Sport 1 HD
-#EXTGRP:Sports
-http://iptv.am000.tv:8000/11223355/11223355/89
-#EXTINF:0,AD Sport 2 HD
-#EXTGRP:Sports
-http://iptv.am000.tv:8000/11223355/11223355/114
-#EXTINF:0,AD Sport 3 HD
-#EXTGRP:Sports
-http://iptv.am000.tv:8000/11223355/11223355/90
-#EXTINF:0,AD Sport 4 HD
-#EXTGRP:Sports
-http://iptv.am000.tv:8000/11223355/11223355/534
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",AL KASS ONE HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/6807
+#EXTINF:0 tvg-id="ext" group-title="Sports",AL KASS TWO HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/6806
+#EXTINF:0 tvg-id="ext" group-title="Sports",AL KASS TREE HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/6805
+#EXTINF:0 tvg-id="ext" group-title="Sports",AL KASS FOUR HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/6804
+
+#EXTINF:0, **beIN osn**
+#EXTINF:0 tvg-id="ext" group-title="Sports",OSN Ad Sport 1
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/7629
+#EXTINF:0 tvg-id="ext" group-title="Sports",OSN Ad Sport 1 HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/7628
+#EXTINF:0 tvg-id="ext" group-title="Sports",OSN Ad Sport 2
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/7626
+#EXTINF:0 tvg-id="ext" group-title="Sports",OSN Ad Sport 2 HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/7627
+#EXTINF:0 tvg-id="ext" group-title="Sports",OSN Ad Sport 3
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/7824
+#EXTINF:0 tvg-id="ext" group-title="Sports",OSN Ad Sport 3  HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/6656
+#EXTINF:0 tvg-id="ext" group-title="Sports",OSN Ad Sport 4
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/7823
+#EXTINF:0 tvg-id="ext" group-title="Sports",OSN Ad Sport 4 HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/6655
+#EXTINF:0 tvg-id="ext" group-title="Sports",OSN Ad Sport 5
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/10887
 
 #EXTINF:0,==== Other Sports====
 #EXTGRP:Sports
