@@ -2,7 +2,6 @@
 #EXTINF:0,==== Sports ====
 #EXTGRP:Sports
 http://beryantv.com
-#EXTM3U
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="AR Bein Sports",beiN Sports 1
 http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5223
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="AR Bein Sports",beiN Sports 2
@@ -61,47 +60,50 @@ http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/6665
 http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5238
 #EXTINF:0 tvg-id="bein10hd.jsc" group-title="AR Bein Sports",beiN Sports 10 SD
 http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/6666
-
+#EXTINF: 0, beIN 4K
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="AR Bein Sports",beIN Sport 1 4K
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11311
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="AR Bein Sports",beIN Sport 2 4K
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11310
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="AR Bein Sports",beIN Sport 3 4K
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11309
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="AR Bein Sports",beIN Sport 4 4K
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11308
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="AR Bein Sports",beIN Sport 5 4K
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11307
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="AR Bein Sports",beIN Sport 6 4K
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11306
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="AR Bein Sports",beIN Sport 7 4K
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11305
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="AR Bein Sports",beIN Sport 8 4K
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11304
 
 #EXTINF:-1,BEIN-SPORT1
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/232
-
 #EXTINF:-1,BEIN-SPORT2
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/233
-
 #EXTINF:-1,BEIN-SPORT3
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/234
-
 #EXTINF:-1,BEIN-SPORT4
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/235
-
 #EXTINF:-1,BEIN-SPORT5
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/236
-
 #EXTINF:-1,BeIN_Sport_6
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/237
-
 #EXTINF:-1,BEIN-SPORT7
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/238
-
 #EXTINF:-1,BEIN-SPORT8
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/239
-
 #EXTINF:-1,BEIN-SPORT9
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/240
-
 #EXTINF:-1,BEIN-SPORT10
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/241
-
 #EXTINF:-1,BEIN-SPORT11
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/242
-
 #EXTINF:-1,BeIN_Sport_12
 http://fluence.mypets.ws:8080/live:david.clayton24/eigpO27vAL/243
-
 #EXTINF:-1,bein sport
 http://dmtn.tv:8080/ahmed642710/ehuvnLl4i7/144296
-
 #EXTINF:-1,BEIN-SPORTmax
 http://dmtn.tv:8080/ahmed642710/ehuvnLl4i7/144298
 
