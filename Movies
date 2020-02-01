@@ -14,48 +14,32 @@ http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
 #EXTINF:0,==== BEIN =====
 #EXTGRP:Movies
 http://beryantv.com
-#EXTINF:0,beIN Movies HD 1
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/694
-#EXTINF:0,beIN Movies HD 2
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/693
-#EXTINF:0,beIN Movies HD 3
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/692
-#EXTINF:0,beIN Movies HD 4
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/706
-#EXTINF:-1,FOX HD
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/4492
-#EXTINF:-1,FOX Movies HD
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/679
-#EXTINF:0,FOX Family Movies HD
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/2630
-#EXTINF:0,FOX Action Movies HD
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/1201
-#EXTINF:0,FOX Crime HD
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/4493
-#EXTINF:-1,Fox Life HD
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/4490
-#EXTINF:-1,FOX Rewayat HD
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/4495
-#EXTINF:1,TRAVEL HD
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/707
-#EXTINF:1,beIN GOURMET HD
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/1127
-#EXTINF:-1,FOOD Network
-#EXTGRP:Movies
-http://iptv.am000.tv:8000/11223355/11223355/1804
+
+#EXTINF:0 tvg-id="ext",beIN Movies 1 HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5209
+#EXTINF:0 tvg-id="ext" group-title="Movies",beIN Movies 2 HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5210
+#EXTINF:0 tvg-id="ext" group-title="Movies",beIN Movies 3 HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5211
+#EXTINF:0 tvg-id="ext" group-title="Movies",beIN Movies 4 HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5212
+#EXTINF:0 tvg-id="ext" group-title="Movies",beIN Series 1 HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5213
+#EXTINF:0 tvg-id="ext" group-title="Movies",beiN Series 2 HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/19552
+#EXTINF:0 tvg-id="ext" group-title="Movies",beiN AMC
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/19551
+#EXTINF:0 tvg-id="ext" group-title="Movies",beiN DMAX
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/19545
+#EXTINF:0 tvg-id="ext" group-title="Movies",beiN DREAMWORKS
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/19549
+#EXTINF:0 tvg-id="ext" group-title="Movies",beiN DTX
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/19548
+#EXTINF:0 tvg-id="ext" group-title="Movies",beiN Gourmet HD
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/19544
+#EXTINF:0 tvg-id="ext" group-title="Movies",beiN OUTDOOR
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/19547
+
 #EXTINF:0,==== ART =====
 #EXTGRP:Movies
 http://beryantv.com
@@ -156,117 +140,117 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 ##########   NETFLIX WANNA BE   ##########
 http://www.elahmad.com/
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 1
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 1
 https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 2
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 2
 https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 4
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 4
 https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 5
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 5
 https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 6
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 6
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 7
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 7
 https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 8
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 8
 https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 9
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 9
 https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 10
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 10
 https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 11
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 11
 https://dl.dropbox.com/s/nzd3ekunnrbkh60/Dubaimovie.m3u8?dl=0
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 12
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 12
 https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 13
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 13
 https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 14
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 14
 https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 15
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 15
 https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 16
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 16
 https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 17
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 17
 https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 18
+#EXTINF:-1 group-title="Movies",Netflix LIVE Movies 18
 https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
 
 ##########   VOD   ##########
-#EXTINF:-1 group-title="VOD",Hollywood Movies 6
+#EXTINF:-1 group-title="Movies",Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
-#EXTINF:-1 group-title="VOD",Hollywood Movies 7
+#EXTINF:-1 group-title="Movies",Hollywood Movies 7
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="VOD",Hollywood Movies 8
+#EXTINF:-1 group-title="Movies",Hollywood Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="VOD",Hollywood Movies 10
+#EXTINF:-1 group-title="Movies",Hollywood Movies 10
 http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
 
-#EXTINF:-1 group-title="VOD",Hollywood Movies 12
+#EXTINF:-1 group-title="Movies",Hollywood Movies 12
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 
-#EXTINF:-1 group-title="VOD",Mandarin Movies 1
+#EXTINF:-1 group-title="Movies",Mandarin Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="VOD",Mandarin Movies 4
+#EXTINF:-1 group-title="Movies",Mandarin Movies 4
 http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
 
-#EXTINF:-1 group-title="VOD",Mandarin Movies 5
+#EXTINF:-1 group-title="Movies",Mandarin Movies 5
 http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
 
-#EXTINF:-1 group-title="VOD",Mandarin Movies 6
+#EXTINF:-1 group-title="Movies",Mandarin Movies 6
 http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
 
-#EXTINF:-1 group-title="VOD",Mandarin Movies 7
+#EXTINF:-1 group-title="Movies",Mandarin Movies 7
 http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
 
-#EXTINF:-1 group-title="VOD",Mandarin Movies 8
+#EXTINF:-1 group-title="Movies",Mandarin Movies 8
 http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
 
-#EXTINF:-1 group-title="VOD",ANDY LAU
+#EXTINF:-1 group-title="Movies",ANDY LAU
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="VOD",CHOW YOUN FAT
+#EXTINF:-1 group-title="Movies",CHOW YOUN FAT
 http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="VOD",SAMO HUNG
+#EXTINF:-1 group-title="Movies",SAMO HUNG
 http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="VOD",FILM 1
+#EXTINF:-1 group-title="Movies",FILM 1
 http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
 
-#EXTINF:-1 group-title="VOD",FILM 2
+#EXTINF:-1 group-title="Movies",FILM 2
 http://tx.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8
 
-#EXTINF:-1 group-title="VOD",FILM 3
+#EXTINF:-1 group-title="Movies",FILM 3
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="VOD",FILM 4
+#EXTINF:-1 group-title="Movies",FILM 4
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="VOD",FILM 5
+#EXTINF:-1 group-title="Movies",FILM 5
 http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
 
-#EXTINF:-1 group-title="VOD",FILM 6
+#EXTINF:-1 group-title="Movies",FILM 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="VOD",FILM 7
+#EXTINF:-1 group-title="Movies",FILM 7
 http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
